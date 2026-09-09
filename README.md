@@ -1,3 +1,6 @@
+# The development moved to [Hugi-R/wplace-daily-archives](https://github.com/Hugi-R/wplace-daily-archives)
+Everything rewritten in Rust for better perf with the new compression. And the monorepo got split in 3.
+
 # wplace-archive-world-map
 
 A Go-based project for ingesting, transforming, and serving [Wplace](https://wplace.live) archives.
