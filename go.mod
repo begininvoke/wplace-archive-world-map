@@ -18,5 +18,5 @@ require (
 	github.com/spf13/afero v1.11.0 // indirect
 	github.com/ulikunitz/xz v0.5.12 // indirect
 	go4.org v0.0.0-20200411211856-f5505b9728dd // indirect
-	golang.org/x/text v0.25.0 // indirect
+	golang.org/x/text v0.39.0 // indirect
 )
